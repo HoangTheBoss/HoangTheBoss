@@ -4,15 +4,20 @@
 
 💡 I’m currently working on [MCMultiplayerControl](https://github.com/terminada/MCMultiplayerControl) (not published) and
 
-[![mc-server-script](https://github-readme-stats.vercel.app/api/pin/?username=terminada&repo=mc-server-script&theme=outrun)](https://github.com/terminada/mc-server-script)
-
-[![UniversalAnimeDownloader](https://github-readme-stats.vercel.app/api/pin/?username=TachibanaYui&repo=UniversalAnimeDownloader&theme=outrun)](https://github.com/TachibanaYui/UniversalAnimeDownloader)
-
+<a href="https://github.com/terminada/mc-server-script">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminada&repo=mc-server-script&theme=outrun" />
+</a>
+<a href="https://github.com/TachibanaYui/UniversalAnimeDownloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TachibanaYui&repo=UniversalAnimeDownloader&theme=outrun" />
+</a>
+ 
+ 
 🌱 Learning **Node.js, PHP** to add to my skill board
 
 💪 Which already have **HTML5, CSS, Javascript, Python, etc.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTheBoss&theme=outrun&langs_count=5)](https://github.com/HoangTheBoss)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTheBoss&theme=outrun&langs_count=5">
+
 
 ⚡ My GitHub statistics:
 
