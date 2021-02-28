@@ -16,8 +16,9 @@
 
 💪 Which already have **HTML5, CSS, Javascript, Python, etc.**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTheBoss&theme=outrun&langs_count=5">
-
+<div align='center'>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTheBoss&theme=outrun&langs_count=5' />
+</div>
 
 ⚡ My GitHub statistics:
 
