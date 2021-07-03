@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Hoang](https://hoangtheboss.xyz)
+## Hi there 👋, I'm [Hoang](https://links.hoangtheboss.xyz)
 
 👽 I'm a high school student from Vietnam and also a hobbyist.
 
@@ -10,15 +10,7 @@
 <a href="https://github.com/TachibanaYui/UniversalAnimeDownloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TachibanaYui&repo=UniversalAnimeDownloader&theme=outrun" />
 </a>
- 
- 
-🌱 Learning **Node.js, PHP** to add to my skill board
 
-💪 Which already have **HTML5, CSS, Javascript, Python, etc.**
-
-<div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTheBoss&theme=outrun&langs_count=5' />
-</div>
 
 ⚡ My GitHub statistics:
 
