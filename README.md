@@ -2,7 +2,7 @@
 
 👽 I'm a student from Vietnam and also a hobbyist.
 
-💡 I’m currently working on 
+💡 I contributed to... 
 
 [![VALORANT-Skin-CLI](https://github-readme-stats.vercel.app/api/pin/?username=colinhartigan&repo=valorant-skin-cli&theme=outrun&show_owner=true)](https://github.com/colinhartigan/valorant-skin-cli)
 
