@@ -6,7 +6,7 @@
 
 [![VALORANT-Skin-CLI](https://github-readme-stats.vercel.app/api/pin/?username=colinhartigan&repo=valorant-skin-cli&theme=outrun&show_owner=true)](https://github.com/colinhartigan/valorant-skin-cli)
 
-[![MC-Server_script](https://github-readme-stats.vercel.app/api/pin/?username=terminada&repo=mc-server-script&theme=outrun&show_owner=true)](https://github.com/terminada/mc-server-script)
+[![Fabric-Server_script](https://github-readme-stats.vercel.app/api/pin/?username=terminada&repo=fabric-server-script&theme=outrun&show_owner=true)](https://github.com/terminada/fabric-server-script)
 
 [![UAD](https://github-readme-stats.vercel.app/api/pin/?username=TachibanaYui&repo=UniversalAnimeDownloader&theme=outrun&show_owner=true)](https://github.com/TachibanaYui/UniversalAnimeDownloader)
 
